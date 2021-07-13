@@ -1,0 +1,11 @@
+.profile-image{
+    width: 50px;
+}
+
+.post img{
+    max-height: 50vh;
+}
+
+.image{
+    max-width: 30vw;
+}

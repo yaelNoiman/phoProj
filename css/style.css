@@ -1,0 +1,24 @@
+
+
+
+.about{
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.profile-image{
+    width: 60px;
+    border-radius: 50%;
+}
+
+.post img{
+    max-height: 50vh;
+}
+
+.image{
+    max-width: 30vw;
+}
+
+.btn{
+color: cornsilk;
+}
